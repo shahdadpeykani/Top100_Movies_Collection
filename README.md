@@ -1,2 +1,2 @@
-# Top100_Movies_Collection
-A curated list of the top 100 movies as ranked by Empire Online. This repository includes a Python script that scrapes and collects the names of these iconic films from a web archive. The resulting list is saved to a text file, showcasing a diverse selection of cinematic masterpieces spanning various genres and decades.
+Top100_Movies_Collection
+This project involves scraping a list of the top 100 movies from Empire Online using Python. The script fetches data from a historical web archive and processes it to generate a text file containing the movie titles in reverse order. This project demonstrates skills in web scraping, data processing, and file handling.
